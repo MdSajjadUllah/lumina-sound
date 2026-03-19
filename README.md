@@ -9,12 +9,13 @@
 👉 https://lumina-sound-six.vercel.app/
 
 ---
-
 ## 📸 Preview
+<p align="center">
+  <img src="./screenshots/home.png" width="30%" />
+  <img src="./screenshots/product.png" width="30%" />
+  <img src="./screenshots/story.png" width="30%" />
+</p>
 
-![Homepage](./screenshots/home.png)
-![Product Experience](./screenshots/product.png)
-![Cart System](./screenshots/cart.png)
 
 ---
 
